@@ -7,7 +7,8 @@ July - Sept.
 * let's each make a list of potential folks to reach  
 to and get commitments for.
 * we can send them to the [RSOC Coaching guide](http://railsgirlssummerofcode.org/guide/coaching/)
-#####**Official**
+
+######**Official**
 	* Brigitte
 	* Paul
 
