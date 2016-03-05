@@ -13,7 +13,7 @@ July - Sept.
 * Paul
 
 ####**Open source Projects**
-#####**Ore's Projects**  
+######**Ore's Projects**  
 * [Teams App](https://teams.railsgirlssummerofcode.org/projects/96-discourse-visual-forum-analytics)
 * [Soundrop](https://teams.railsgirlssummerofcode.org/projects/100-sounddrop)
 * [Exception Notification](https://teams.railsgirlssummerofcode.org/projects/92-exception-notification)
