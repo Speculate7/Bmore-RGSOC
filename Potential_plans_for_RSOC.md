@@ -27,7 +27,7 @@ July - Sept.
 * [Classroom for Github](https://teams.railsgirlssummerofcode.org/projects/95-classroom-for-github)
 * [Teams App](https://teams.railsgirlssummerofcode.org/projects/96-discourse-visual-forum-analytics)
 * [Ruby 2D](https://teams.railsgirlssummerofcode.org/projects/89-ruby-2d)
-* [Exercism](https://teams.railsgirlssummerofcode.org/projects/74-exercism-io)
+
 
 
 ####Places of Work
