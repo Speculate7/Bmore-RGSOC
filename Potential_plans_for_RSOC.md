@@ -12,26 +12,22 @@ July - Sept.
 * Brigitte
 * Paul
 * Jamie
+* Beverley 
 
 ######**Unofficial**
 * Tasha
 * Doug
 * Polly 
+* Kyril
 
 
-####**Open source Projects**
-######**Ore's Projects**  
+####**Open source Projects**  
+
+#####**Semi-Final Project Choices  
+* [Classroom for Github](https://teams.railsgirlssummerofcode.org/projects/95-classroom-for-github)
 * [Teams App](https://teams.railsgirlssummerofcode.org/projects/96-discourse-visual-forum-analytics)
-* [Soundrop](https://teams.railsgirlssummerofcode.org/projects/100-sounddrop)
-* [Exception Notification](https://teams.railsgirlssummerofcode.org/projects/92-exception-notification)
-* [PYSDA](https://teams.railsgirlssummerofcode.org/projects/86-pydsa)
-* [Classroom for Github](https://teams.railsgirlssummerofcode.org/projects/95-classroom-for-github)  
-
-####**Final Project Choices
-** [Classroom for Github](https://teams.railsgirlssummerofcode.org/projects/95-classroom-for-github)
-** [Teams App](https://teams.railsgirlssummerofcode.org/projects/96-discourse-visual-forum-analytics)
-** [Ruby 2D] https://teams.railsgirlssummerofcode.org/projects/89-ruby-2d
-** [Exercism] https://teams.railsgirlssummerofcode.org/projects/74-exercism-io
+* [Ruby 2D](https://teams.railsgirlssummerofcode.org/projects/89-ruby-2d)
+* [Exercism](https://teams.railsgirlssummerofcode.org/projects/74-exercism-io)
 
 
 ####**Places of Work**
