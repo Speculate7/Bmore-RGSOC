@@ -5,12 +5,19 @@ July - Sept.
 
 ####**Coaches**
 	 let's each make a list of potential folks to reach
-	 out to and get commitments for.  we can send them 
+	 out to and get commitments for.  we can send them
 	 to the [RSOC Coaching guide](http://railsgirlssummerofcode.org/guide/coaching/)
 
 ######**Official**
 * Brigitte
 * Paul
+* Jamie
+
+######**Unofficial**
+* Tasha
+* Doug
+* Polly 
+
 
 ####**Open source Projects**
 ######**Ore's Projects**  
@@ -19,6 +26,13 @@ July - Sept.
 * [Exception Notification](https://teams.railsgirlssummerofcode.org/projects/92-exception-notification)
 * [PYSDA](https://teams.railsgirlssummerofcode.org/projects/86-pydsa)
 * [Classroom for Github](https://teams.railsgirlssummerofcode.org/projects/95-classroom-for-github)  
+
+####**Final Project Choices
+** [Classroom for Github](https://teams.railsgirlssummerofcode.org/projects/95-classroom-for-github)
+** [Teams App](https://teams.railsgirlssummerofcode.org/projects/96-discourse-visual-forum-analytics)
+** [Ruby 2D] https://teams.railsgirlssummerofcode.org/projects/89-ruby-2d
+** [Exercism] https://teams.railsgirlssummerofcode.org/projects/74-exercism-io
+
 
 ####**Places of Work**
 * Impact Hub
