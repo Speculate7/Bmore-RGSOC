@@ -3,10 +3,8 @@
 ####Time line
 July - Sept.
 
-####Coaches
-	 let's each make a list of potential folks to reach
-	 out to and get commitments for.  we can send them
-	 to the [RSOC Coaching guide](http://railsgirlssummerofcode.org/guide/coaching/)
+####Coaches  
+[RSOC Coaching guide](http://railsgirlssummerofcode.org/guide/coaching/)
 
 ######Official
 * Brigitte
