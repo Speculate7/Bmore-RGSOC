@@ -7,19 +7,31 @@ and have projects to show the fruits of our labor. We come from a community that
 ###About us
 <div class="about_container">
 <table>
-  <div class="row_container" width="50px" >
   <tr>
     <td><img src="https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12342690_10153100120486946_5920202903784537507_n.jpg?oh=e93a5825d443443aa027ae7f588c7a78&oe=5759C8CF" width="30%" Height="30%"/></td><br/>
     <td><img src="https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12342690_10153100120486946_5920202903784537507_n.jpg?oh=e93a5825d443443aa027ae7f588c7a78&oe=5759C8CF" width="30%" Height="30%"/></td>
     </tr>
-    </div>  
-  <tr width="50px">
+  <tr>
     <td Ore />
     <td Ashley />
       </tr>
-  <tr width="50px">
+  <tr>
     <td>
-      <p>Ore Akins is a staunch advocate of increasing the visibility of women in the technology sector. While studying​ chemical engineering at Howard University, Ore became increasingly aware of how few people in the tech world looked like her. This inspired her to begin advocating on behalf of other women, and women of color in the tech sector. Through her work with Women Who Code DC and the Baltimore Women in Tech community, Ore has proven her commitment to making the tech sector more inclusive. As a teacher for Code in the Schools, Ore provides quality computer science instruction to under-served and under-represented youth in Baltimore City. Ore has jumped in feet first and has become an integral part of the CITS team. She is now mentoring students in our Prodigy Program, imparting invaluable developer knowledge upon them, and preparing them for bright futures. This spring Ore will be launching a Black Girls Code Baltimore City chapter and plans to get young women from her neighborhood engaged in coding events this summer.
+      <p>Ore Akins is a staunch advocate of increasing the visibility  
+      of women in the technology sector. While studying​ chemical  
+      engineering at Howard University, Ore became increasingly aware  
+      of how few people in the tech world looked like her. This inspired   
+      her to begin advocating on behalf of other women, and women of color   
+      in the tech sector. Through her work with Women Who Code DC and the  
+      Baltimore Women in Tech community, Ore has       proven her commitment   
+      to making the tech sector more inclusive. As a teacher   
+      for Code in the Schools, Ore provides quality computer science instruction   
+      to under-served and under-represented youth in Baltimore City. Ore has   
+      jumped in feet first and has become an integral part of the CITS team.   
+      She is now mentoring students in our Prodigy Program, imparting invaluable   
+      developer knowledge upon them, and preparing them for bright futures. This   
+      spring Ore will be launching a Black Girls Code Baltimore City chapter and   
+      plans to get young women from her neighborhood engaged in coding events this summer.  
       <p>
     </td>
     <td> ash bio</>
@@ -35,7 +47,7 @@ July - Sept.
 
 ######Official
 * Jamie
-* Beverley 
+* Beverly 
 
 ######Unofficial
 * Tasha
@@ -45,14 +57,15 @@ July - Sept.
 
 
 ####Open source Project  
-* [Ruby 2D](https://teams.railsgirlssummerofcode.org/projects/89-ruby-2d)
+* [Ruby 2D](https://teams.railsgirlssummerofcode.org/projects/89-ruby-2d)  
+
 #####Backup Project Choice  
 * [Teams App](https://teams.railsgirlssummerofcode.org/projects/96-discourse-visual-forum-analytics)
 
-####Places of Work
+####Places to Work?
 * Impact Hub 10 E North Ave, Baltimore, MD
 * Code in the Schools Suite 3 10 E North Ave, Baltimore, MD
-* 
+* OrderUp HQ
 
 ####**Community and **  
 [B'More on Rails Meetup]()  
