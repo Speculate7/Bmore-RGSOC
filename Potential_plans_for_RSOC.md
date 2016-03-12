@@ -8,8 +8,8 @@ and have projects to show the fruits of our labor. We come from a community that
 <div class="about_container">
 <table>
   <tr>
-    <td><img src="https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12342690_10153100120486946_5920202903784537507_n.jpg?oh=e93a5825d443443aa027ae7f588c7a78&oe=5759C8CF" width="30%" Height="30%"/></td><br/>
-    <td><img src="https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12342690_10153100120486946_5920202903784537507_n.jpg?oh=e93a5825d443443aa027ae7f588c7a78&oe=5759C8CF" width="30%" Height="30%"/></td>
+    <td width="300px" Height="500px"><img src="https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12342690_10153100120486946_5920202903784537507_n.jpg?oh=e93a5825d443443aa027ae7f588c7a78&oe=5759C8CF" width="300px" Height="350px" /></td><br/>
+    <td width="400px" Height="600px"> Ashley's Pic <img src="" width="300px" Height="350px"/></td>
     </tr>
   <tr>
     <td Ore />
