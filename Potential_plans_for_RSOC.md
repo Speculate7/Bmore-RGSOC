@@ -146,13 +146,16 @@ I have gotten used to refactoring code
         then? Tell us all about it!
 
 * For how many months have you actively been learning after your first workshop?
-1-3 months
-4-6 months
-7-9 months
-10-12 months
-13-24 months
-24+ months
+1-3 months  
+4-6 months  
+7-9 months  
+10-12 months  
+13-24 months  
+24+ months  
 N/A months
 
 * Please summarize what you have been doing to learn programming since your first workshop
 * Please give us a short summary of your programming skills
+* Please link to pull requests you have done or other examples of your coding on GitHub or elsewhere.
+* Where do you plan to live July-September? (Please write as "City, Country")
+* How much money do you need at the very minimum per month to sustain yourself while working fulltime on an Open Source project? Please give a short summary of your costs including rent, living costs, special circumstances.
