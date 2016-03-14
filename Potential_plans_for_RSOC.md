@@ -85,9 +85,9 @@ July - Sept.
 * OrderUp HQ
 
 ####**Communities we're a part of**  
-[B'More on Rails Meetup]()  
-[Girl Develop it]()  
-[Baltimore Women in Computing]()
+[B'More on Rails Meetup](http://www.meetup.com/bmore-on-rails/)  
+[Girl Develop it](https://www.girldevelopit.com/chapters/baltimore)  
+[Baltimore Women in Computing](https://www.facebook.com/groups/baltimorewomenintech/)
 
 ####**Self-motivation Strategies**
 Self-motivation is a holistic attempt to encourage oneself to continue progreesing. 
