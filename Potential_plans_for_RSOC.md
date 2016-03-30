@@ -1,60 +1,38 @@
 ##Project Proposal
 
-For almost a year, Ashley and I have steadily developed our proficency in ruby on rails. We were thrilled when a friend of
-ours shared this opportunity with us. We would be able to take our skills to the next level
-and have projects to show the fruits of our labor. We come from a community that fosters giving back
-
-###About us
-<div class="about_container">
-<table>
-  <tr>
-    <td><img width="300px" height="350px"src="https://scontent-atl3-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12342690_10153100120486946_5920202903784537507_n.jpg?oh=e93a5825d443443aa027ae7f588c7a78&oe=5759C8CF" /></td><br/>
-    <td> Ashley's Pic <img src="" width="300px" Height="350px"/></td>
-    </tr>
-  <tr>
-    <td Ore />
-    <td Ashley />
-      </tr>
-  <tr>
-    <td><p> Ore is a staunch advocate of increasing the visibility  
-      of women in the technology sector. While studying​ chemical  
-      engineering at Howard University, Ore became increasingly aware  
-      of how few people in the tech world looked like her. This inspired   
-      her to begin advocating on behalf of other women, and women of color   
-      in the tech sector. Through her work with Women Who Code DC and the  
-      Baltimore Women in Tech community, Ore has       proven her commitment   
-      to making the tech sector more inclusive. As a teacher   
-      for Code in the Schools, Ore provides quality computer science instruction   
-      to under-served and under-represented youth in Baltimore City. Ore has   
-      jumped in feet first and has become an integral part of the CITS team.   
-      She is now mentoring students in our Prodigy Program, imparting invaluable   
-      developer knowledge upon them, and preparing them for bright futures. This   
-      spring Ore will be launching a Black Girls Code Baltimore City chapter and   
-      plans to get young women from her neighborhood engaged in coding events this summer.
-      </p>
-    </td>
-    <td> 
-      <p>ash bio-Ore is a staunch advocate of increasing the visibility  
-      of women in the technology sector. While studying​ chemical  
-      engineering at Howard University, Ore became increasingly aware  
-      of how few people in the tech world looked like her. This inspired   
-      her to begin advocating on behalf of other women, and women of color   
-      in the tech sector. Through her work with Women Who Code DC and the  
-      Baltimore Women in Tech community, Ore has       proven her commitment   
-      to making the tech sector more inclusive. As a teacher   
-      for Code in the Schools, Ore provides quality computer science instruction   
-      to under-served and under-represented youth in Baltimore City. Ore has   
-      jumped in feet first and has become an integral part of the CITS team.   
-      She is now mentoring students in our Prodigy Program, imparting invaluable   
-      developer knowledge upon them, and preparing them for bright futures. This   
-      spring Ore will be launching a Black Girls Code Baltimore City chapter and   
-      plans to get young women from her neighborhood engaged in coding events this summer.
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
-
+###Please tell us a little bit about yourself. What is your background?
+Ore Akins is a staunch advocate of increasing the visibility of women in the technology sector. While studying​ chemical engineering at Howard University, Ore became increasingly aware of how few people in the tech world looked like her. This inspired her to begin advocating on behalf of other women, and women of color in the tech sector. Through her work with Women Who Code DC and the Baltimore Women in Tech community, Ore has proven her commitment to making the tech sector more inclusive. As a teacher for Code in the Schools, Ore provides quality computer science instruction to under-served and under-represented youth in Baltimore City. Ore has jumped in feet first and has become an integral part of the CITS team. She is now mentoring students in our Prodigy Program, imparting invaluable developer knowledge upon them, and preparing them for bright futures. 
+####How did you get into programming?
+During her collegiate years Ore volunteered with the Computer Learning Design Center learning junior system administrator and organizing skills. Later she joined the Women Who Code DC Organization where she attended her first Ruby on Rails meetup/workshop.  She used her organizing skills to help the organization host meetups and put on events. Ore also found it useful to use a self-guided programming app called Algoid that provided her with lessons she could complete on her phone. Organizing for WWCDC began to take up too much time. After moving to Baltimore Ore got involved in the tech community and used the opportunity to begin learning again. Ore, with the help of a mentor and community has continued learning how to program.
+####Please give us a short summary of your programming skills
+In the short time that I've been programming the skills I've acquired include:
+ruby 
+rails - built a blog app
+atom customized with a linter to decrease syntax errors
+[cloud9 ](c9.io)- a cloud based ide to facilitate code collaboration and allows me to access a console from anywhere
+[openshift]() - to host a rails app
+sass - I  used it to create variables in my css stylesheets
+bundler - used to install required gems like pry
+rvm - used to manage ruby and rails versions
+####Tell us about your community involvement.
+ Women Who Code DC ROR meetup last winter using Michael Hartl as the curriculum
+During my time with Women Who Code DC I helped organize the [ROR meetups]() and the [Algorithm meetup](). I attended Nodeschool.io last fall, coached the Rails work shop for Girl Develop it in January and attend weekly B'More on Rails meetups. I also teach children programming concepts at [Code in the Schools]() using [Scratch]() and basic html/css part-time in Baltimore City Public Schools.
+####Please summarize what you have been doing to learn programming since your first workshop
+After my first workshop I joined Women who Code DC ROR group.
+After moving to Baltimore I joined the [B'More Rails Community]().
+Found a mentor or a mentor found me and started going through [Ruby Koans]() lessons with him.
+Since then I've been working through beginner tutorials for [Rails Blog app Tutorial]() and a [Middleman Blog]().
+####Please link to pull requests you have done or other examples of your coding on GitHub or elsewhere.
+koans
+middleman
+ruby app
+check me out(need to do)
+####What do you want to achieve by the end of the summer?
+TBD
+####Why are you applying to this program, and what do you think you can give back? (Please don't mention your name, age, or current location.)
+I am almost of out the [desert of  despair](http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_confidence_competence.png). This program would propel me out of the desert, through the "upswing of awesome" all the way to "Job ready" status.
+There's a lot of opportunity for change  in Baltimore, especially in the non-profit and social impact sector. I want to be part of that change by contributing the skills I have to the vision of a better Baltimore. RGSOC will give me the opportunity to learn skill I can use to pursue initiatives that change my community. 
+(750-1000 word short essay)
 ####Timeline
 July - Sept.
 
@@ -64,10 +42,11 @@ July - Sept.
 ######Official
 * Jamie
 * Beverly 
+* Mira
+* Doug
 
 ######Unofficial
 * Tasha
-* Doug
 * Polly
 * Kyril
 * [Will Barrett](http://willbarrett.me/)
